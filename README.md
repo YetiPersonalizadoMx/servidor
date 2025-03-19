@@ -17,3 +17,6 @@ npm start
 ```sh
 npm run dev
 ```
+# OWNER 
+- Rahul Adhikari
+- <a href= "https://www.adhikarirahul.com.np">www.adhikarirahul.com.np</a>
