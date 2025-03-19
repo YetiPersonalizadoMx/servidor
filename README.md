@@ -3,7 +3,7 @@
 # TO ACCESS THE END POINT
 
 ```sh
-http://localhost:3000/pupapi/endpoint
+https://your-backend-url/pupapi/endpoint
 ```
 
 # TO RUN THE PRODUCTION SERVER
