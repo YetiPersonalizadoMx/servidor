@@ -19,4 +19,4 @@ npm run dev
 ```
 # OWNER 
 - Rahul Adhikari
-- <a href= "https://www.adhikarirahul.com.np">www.adhikarirahul.com.np</a>
+- <a href= "https://www.adhikarirahul.com.np" target="_blank">www.adhikarirahul.com.np</a>
