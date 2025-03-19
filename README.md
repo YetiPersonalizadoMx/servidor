@@ -17,6 +17,15 @@ npm start
 ```sh
 npm run dev
 ```
-# OWNER 
+
+# OWNER
+
 - Rahul Adhikari
 - <a href= "https://www.adhikarirahul.com.np" target="_blank">www.adhikarirahul.com.np</a>
+
+# RENDER DEPLOYMENT
+
+- Import the repository
+- Set it as defult in both build and start command
+
+<img src = "/render.png" />
