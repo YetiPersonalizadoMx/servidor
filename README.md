@@ -6,6 +6,12 @@
 https://your-backend-url/pupapi/endpoint
 ```
 
+# TO INSTALL THE DEPENDENCIES
+
+```sh
+npm install
+```
+
 # TO RUN THE PRODUCTION SERVER
 
 ```sh
