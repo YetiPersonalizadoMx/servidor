@@ -7,9 +7,9 @@ const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
-server.use("/pupapi", router);
+server.use("/data", router);
 
 const PORT = process.env.PORT || 8080;
 server.listen(PORT, () => {
-  console.log(`pupapi Server is running on port ${PORT}`);
+  console.log(`Server is running on port ${PORT}`);
 });
